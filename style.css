@@ -1,0 +1,8 @@
+body {
+    background: blue;
+}
+
+.caution{
+    border: 5px outset red;
+    background-color: yellow;
+}
